@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "prettier",
+    "plugin:sonarjs/recommended",
+    "prettier-plugin-organize-imports",
+    "plugin:storybook/recommended"
+  ],
+  "rules": {
+    "semi": "off"
+  }
+}
